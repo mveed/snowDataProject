@@ -98,7 +98,7 @@ app.get('/test', (req, res)=>{
 // testing comments again
 app.listen(port, () => console.log('Server ready'))
 
-let url = "mongodb://mveed:BPXalacbVSyTuc7Q5pfSbBjgsj9LdkPS4FAWqA5db9esUs6CRbYoy6D54RSWxIxKWAhcUosmnBD1UuiAJRtNCg==@mveed.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@mveed@";
+let url = ""; // connection string here
 /*
 MongoClient.connect(url, function(err, db) {
     if (err) throw err;

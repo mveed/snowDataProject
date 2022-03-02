@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5735fe61-4ca2-46e6-9ce9-7226e642d618/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/winterBreak",
+    "appService.deploySubpath": "."
+}

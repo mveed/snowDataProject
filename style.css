@@ -1,0 +1,41 @@
+html {
+    font-family: Arial;
+    background-color: rgb(235 235 235);
+}
+
+div {
+    background-color: rgb(250 250 250);
+    /* background-image: linear-gradient(to right, rgb(255 255 255) , rgb(200 200 200)); */
+}
+#chart {
+    box-shadow: 0px 0px 15px rgb(190 190 190);
+    border-radius: 8px;
+}
+
+#chartSelection {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.selection {
+    padding: 10px;
+    margin: 10px;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 3px;
+    border-radius: 20px;
+}
+
+.resortInfoContainer {
+    box-shadow: 0px 0px 15px rgb(200 200 200);
+    display: flex;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.snowfallItem {
+    padding: 20px;
+}
